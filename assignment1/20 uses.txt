@@ -1,1 +1,20 @@
-1. SOmething
+1. We can have IoT enabled Air conditioners, so whenever we are coming back home we can start the AC's before hqnd so that the room gets cold before you enter.
+2. IoT enabled blinds (curtains). We could add modes. MODE1:- More light (whenever it senses sunlight it opens curtains), MODE2:- Less Light (whenever it senses light it closes blinds).
+3. Oven, we can preheat the oven if we are going to use it.
+4. garage doors, whenever it senses a car nearby it opens the door.
+5. fitness bands,track the distance travelled ,calories burned etc.
+6. Refridgerators, you can have sensors in particular sections which can send a notification if you are running  out of stuff.
+7. Lights, if it detects you walk in it switches on and stays on untill it detects you leave the room(or sleep).
+8. cars, it can drive on its own  ith the help of different sensors.
+9. traffic light, it should be able to detect the number of cars and add/reduce the time on the signal.
+10. traffic monitoring, we can see which road has more traffic in google maps. this helps us take another route
+11. any simple gadgets (like a clock) should send us a signal when the battery is about to finish.
+12. In agriculture, it can detect the pH level of the soil and help us identify which chemicals to add to make it ideal for plant growth.
+13. Room keys, in hotels you just have a sensor as a key which if you tap on the door with , the door opens.
+14. managing leaks in pipes, in any pipe if there is a leak it is extremely difficult to find the exact place where the leak has occured but with IoT sensors we can easily pinpoint the location.
+15. TV remotes(it already uses IoT sensors but), we can add voice recognition on it so that wwe can search the channel/movie through voice.
+16. We can add temperature sensors in airport scanners, so we can also find out if the patient is sick/ has some disease.
+17. Flood detection, in coastal regions if informed about floods before hand it can save lakhs of lives.
+18. Sports, we can add sesnsors in tennis rackets/cricket bats so we can see the statistics of each shot.
+19. Devices like amazon echo/google home use IoT for a lot of stuff including playing music, giving you notifications etc.
+20. Key sensor, For some reason the keys keep running away, we can just add a sensor to track their location.
